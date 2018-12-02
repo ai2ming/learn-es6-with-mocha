@@ -1,6 +1,3 @@
-// import chai from 'chai'
-// const expect = chai.expect
-
 const expect = require('chai').expect
 
 describe('测试：block作用域变量', () => {
