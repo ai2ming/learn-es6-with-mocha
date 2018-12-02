@@ -27,3 +27,4 @@ npm test
 ## 其他学习ES的参考资料
 [ECMAScript 6 入门，阮一峰的电子书](http://es6.ruanyifeng.com/)  
 [ES6 Katas, 在线练习有一定的难度，js自信的可以大胆尝试](http://es6katas.org/)  
+  
