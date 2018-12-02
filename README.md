@@ -24,6 +24,6 @@ npm test
 7. 07-spread-operator.test.js  
 和解构相反，学习如何将数组、对象打散，合并到新的数组或对象中
 
-## 其他学习资料
+## 其他学习ES6的资料
 [ECMAScript 6 入门](http://es6.ruanyifeng.com/)  
 [ES6 Katas, 在线练习有一定的难度，js自信的可以大胆尝试](http://es6katas.org/)  
