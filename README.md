@@ -23,7 +23,8 @@ npm test
 使用...操作符，表示解构中剩余的部分，或函数调用的剩余参数
 7. 07-spread-operator.test.js  
 和解构相反，学习如何将数组、对象打散，合并到新的数组或对象中
-
+8. 08-javascript-class.test.js  
+学习es6中的class用法，包括构造构造函数，get和set，静态属性和方法，以及类继承的注意事项
 ## 其他学习ES的参考资料
 [ECMAScript 6 入门，阮一峰的电子书](http://es6.ruanyifeng.com/)  
 [ES6 Katas, 在线练习有一定的难度，js自信的可以大胆尝试](http://es6katas.org/)  
