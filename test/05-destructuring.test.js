@@ -1,7 +1,7 @@
 var expect = require('chai').expect
 
 describe('测试：Destructuring', () => {
-    it('destructuring array, messing element return undefined', () => {
+    it('destructuring array, missing element will return undefined', () => {
         let n = [1, 2]
         let [x, y, z] = n
         expect(x).to.be.equal(n[0])
@@ -27,7 +27,7 @@ describe('测试：Destructuring', () => {
         expect(a).to.be.equal(str.substr(0, 1))
         expect(c).to.be.equal(str.substr(2, 1))
     })
-    it('destructuring using as funtion parameter', () => {
+    it('destructuring expression using as funtion parameter', () => {
         let obj = {
             x: 1,
             y: 2,
